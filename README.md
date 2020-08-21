@@ -3,4 +3,5 @@
 
 2. Esuna is a Google Chrome Cookie cracker. It uses the AES-GCM to perform the decryption.
 
-Both modules were created with native Python libraries 
+Both modules were created with native Python libraries.
+[Scythe-io](https://github.com/scythe-io)
