@@ -1,0 +1,9 @@
+{
+    "name": "scythe.esuna",
+    "id": "3c9fa530-d5af-11ea-87b3-71900e1848d8",
+    "runtime_id": "DD833957-4D55-4A50-9EF3-9752EE95708F",
+    "display_name": "Esuna",
+    "description": "Esuna is a Cookie cracker for Google Chromes locally stored cookies. It reads the Local State file for your AES key, as well as the Cookies file for your encrypted cookies. The result displays the website and cooresponding cookies.",
+    "icon_filename": "Esuna.png",
+    "type_flags": "CATEGORY_WORKER"
+}

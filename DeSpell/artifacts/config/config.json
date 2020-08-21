@@ -1,0 +1,9 @@
+{
+    "name": "scythe.despell",
+    "id": "3c6db110-d280-11ea-bd1f-e7e25f4a05db",
+    "runtime_id": "DD833957-4D55-4A50-9EF3-9752EE95708F",
+    "display_name": "Chrome Cracker",
+    "description": "Chrome Cracker nicknamed DeSpell, is a password cracker for Google Chromes locally stored passwords. It will look for three files; chrome.exe, Local State, and Login Data. Chrome.exe just ensures that Chrome is present, Local state hosts the encrypted BLOB key, and Login Data is the database file that hosts the usernames, URLS, and encrypted passwords that Chrome stores locally. ",
+    "icon_filename": "images.png",
+    "type_flags": "CATEGORY_WORKER"
+}
